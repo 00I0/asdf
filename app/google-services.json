@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047649473666",
+    "project_id": "ib470-crafts",
+    "storage_bucket": "ib470-crafts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047649473666:android:fa9b6fc393b242f2e7109b",
+        "android_client_info": {
+          "package_name": "com.example.asdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047649473666-860jbnhq2jdafod83rtglel4j81orp07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asdf",
+            "certificate_hash": "6e46cebfe1a6681bd5e22432361d5b1685721887"
+          }
+        },
+        {
+          "client_id": "1047649473666-dskp8g2funfrmspa5ffd59hk9cgk2faj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbX5t21yU4KbWK-4XyWi5sr3fDIJ2YgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047649473666-dskp8g2funfrmspa5ffd59hk9cgk2faj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

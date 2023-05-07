@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Crafts shop</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="email">Email</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="confirm_password">Jelszó Megerősítése</string>
+    <string name="registration">Regisztráció</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="cancel">Mégse</string>
+    <string name="cart">Kosár</string>
+    <string name="view">Nézet</string>
+    <string name="profile">Profil</string>
+    <string name="item_placeholder">A temék neve</string>
+    <string name="item_info_placeholder">a termék leírása</string>
+    <string name="add_to_cart">Kosárba</string>
+    <string name="delete">Kivétel a kosárból</string>
+    <string name="title_activity_shopping">Shopping</string>
+    <string name="check_out">Kosár Tartalma</string>
+    <string name="pay">Vásárlás</string>
+    <string name="disclamer">fizetés átvételkor</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="delteAccunt">Fiók törlése</string>
+</resources>
